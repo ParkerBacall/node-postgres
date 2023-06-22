@@ -12,6 +12,6 @@
   "author": "parker",
   "license": "ISC",
   "dependencies": {
-    "pg": "^7.18.1"
+    "pg": "^8.11.0"
   }
 }
